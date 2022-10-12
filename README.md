@@ -1,3 +1,3 @@
 # DATS0001: Homework 1
 
-See the instructions in `hw1.ipynb`.
+Follow the link sent by email to accept the assignment and then see the instructions in `hw1.ipynb`.
